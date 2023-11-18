@@ -1,0 +1,73 @@
+#link-colour a{
+    text-decoration: none;
+    color: white;
+    font-weight: 400;
+}
+#link-colour-main-main{
+    color: white;
+    font-weight: 600;
+    background-color: #35abed;
+}
+#link-colour-0 a{
+    text-decoration: none;
+    color: black;
+    
+    
+}
+#link-colour-main{
+    background-color: #35abed;
+    
+}
+.add-main{
+    background-color: #e6f5fd;
+}
+
+.hr { 
+    border: none; 
+    border-top: 1px solid #ccc; 
+}
+
+#empty-space-1{
+    height: 200px;
+}
+#empty-space-0{
+    height: 200px;
+}
+#empty-space-2{
+    height: 100px;
+}
+#empty-space-3{
+    height: 170px;
+}
+#pad{
+    padding-right: none;
+}
+#navbarSupportedContent{
+    font-weight: 500   ;
+}
+#date{
+    font-size: small;
+    /* font-weight: 500; */
+    color: #404446;
+}
+.card-text{
+    font-weight: 500;
+}
+#light-color{
+    background-color: #e6f5fd;
+}
+
+.form-control.border-bottom {
+    border: none;
+    border-radius: 0;
+    border-bottom: 1px solid #205993; /* Change color as needed */
+}
+
+/* Optional: Highlight on focus */
+.form-control.border-bottom:focus {
+    box-shadow: none;
+    border-color: #6c757d; /* Change color as needed */
+}
+.heighttt{
+    height: 480px;
+}
